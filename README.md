@@ -1,4 +1,4 @@
-readme_content = """# 🧠 AI-PairProgramming
+""# 🧠 AI-PairProgramming
 
 A curated collection of beginner-friendly Python programs that demonstrate core programming concepts and problem-solving techniques. This repository includes tasks such as palindrome checks, pangram and anagram validation, character and word frequency analysis, Armstrong number detection, prime number generation using the Sieve of Eratosthenes, password strength validation, and string-to-number conversions.
 
@@ -40,6 +40,8 @@ A curated collection of beginner-friendly Python programs that demonstrate core 
 
 ## 🚀 Getting Started
 
-Clone the repository and run the Python file to explore all the programs:
+# Clone the repository and run the Python file to explore all the programs:
 
-
+git clone https://github.com/your-username/AI-PairProgramming.git
+cd AI-PairProgramming
+python main.py
