@@ -35,9 +35,7 @@ A curated collection of beginner-friendly Python programs that demonstrate core 
 - ✅ **Decimal to Binary**: Convert a decimal number to binary.
 - ✅ **Decimal to Hexadecimal**: Convert a decimal number to hexadecimal.
 ---
-
-
-
+## 📘 Day 2 Programming Tasks
 ### 🔢 Number & Math Operations
 - ✅ **Factors of a Number**: Print all the factors of a given number.
 - ✅ **Prime Check**: Determine if a number is prime.
