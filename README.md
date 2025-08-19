@@ -42,6 +42,6 @@ A curated collection of beginner-friendly Python programs that demonstrate core 
 
 # Clone the repository and run the Python file to explore all the programs:
 
-git clone https://github.com/your-username/AI-PairProgramming.git
-cd AI-PairProgramming
-python main.py
+- git clone https://github.com/your-username/AI-PairProgramming.git
+- cd AI-PairProgramming
+- python main.py
